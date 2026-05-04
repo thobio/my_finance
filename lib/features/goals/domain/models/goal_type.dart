@@ -1,0 +1,1 @@
+enum GoalType { standard, emergencyFund }

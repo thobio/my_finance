@@ -1,0 +1,1 @@
+enum YearType { calendar, financial }

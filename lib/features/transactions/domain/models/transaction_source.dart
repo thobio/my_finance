@@ -1,0 +1,1 @@
+enum TransactionSource { manual, csv }
